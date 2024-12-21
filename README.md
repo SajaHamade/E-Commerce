@@ -1,5 +1,5 @@
 # E-Commerce
-This is a full-stack e-commerce application built with the MERN stack (MongoDB, Express.js, React.js, Node.js). 
+This is a responsive full-stack e-commerce application built with the MERN stack (MongoDB, Express.js, React.js, Node.js). 
 
 ## Features
 - User authentication and authorization
