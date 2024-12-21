@@ -12,7 +12,7 @@ app.use(express.json());
 app.use(cors());
 
 
-mongoose.connect("mongodb+srv://Saja:Hamade@todolist.805ge.mongodb.net/ECommerce?retryWrites=true&w=majority&appName=ToDoList") 
+mongoose.connect("") 
 
 app.listen(port,(error)=>{
     if(!error) {
